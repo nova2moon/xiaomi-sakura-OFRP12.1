@@ -63,6 +63,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	#export FOX_VIRTUAL_AB_DEVICE=1
 	#export FOX_DELETE_AROMAFM=1
 	export FOX_ENABLE_APP_MANAGER=1
+ 	export FOX_VARIANT="A1"
 
 	lunch twrp_$FDEVICE-eng
 	# let's see what are our build VARs
