@@ -87,6 +87,7 @@ TW_THEME := portrait_hdpi
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"
+TW_DEFAULT_LANGUAGE := "en"
 
 # Treble
 BOARD_NEEDS_VENDORIMAGE_SYMLINK := false
