@@ -18,6 +18,7 @@
 # 	Please maintain this if you use this script or any part of it
 #
 
+OF_MAINTAINER := "Nova Moon"
 # OrangeFox settings
 OF_HIDE_NOTCH := 1
 OF_USE_GREEN_LED := 0
